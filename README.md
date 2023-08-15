@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
 <a href="https://github.com/danhpaiva/palestra-una-20230815">📚 ~ Material utilizado na palestra ministrada na UNA 2023/02</a>
-</h1>
+</h2>
 
 <p align="center">
   <a href="#">
